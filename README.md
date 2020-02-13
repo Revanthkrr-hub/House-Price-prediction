@@ -1,0 +1,4 @@
+Precise house prediction is of great significanceto  various  real  estate  stakeholders  such  as  house  owners,buyers, investors, and agents
+Right now, we took a changed variant of the California dataset[7] from StaLib mirrors and we randomly expelled 207 qualities from the total\_bedrooms section and An additional categorical attribute called ocean\_proximity was added, showing (very roughly) regardless of whether each square gathering is close to the sea, close to the Bay zone, inland or on an island. This permits examining how to manage unmitigated information.
+
+we implemented a Conv1D based neural network for predicting median house value using longitude, latitude, housing median age, the total number of rooms, the total number of bedrooms, population, number of households, and median income to get a nonlinear regression model from housing dataset
